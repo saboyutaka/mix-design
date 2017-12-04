@@ -1,0 +1,7 @@
+.idea
+node_modules
+.sass-cache
+*.zip
+gulp_start.bat
+gulp_start.sh
+mix-manifest.json
