@@ -5,3 +5,6 @@ node_modules
 gulp_start.bat
 gulp_start.sh
 mix-manifest.json
+public/css
+public/js
+
