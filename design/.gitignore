@@ -7,4 +7,5 @@ gulp_start.sh
 mix-manifest.json
 public/css
 public/js
-
+public/index.html
+public/**/*.html
